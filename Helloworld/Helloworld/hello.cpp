@@ -4,4 +4,5 @@ using namespace std;
 void main() {
 	cout << "test1" << endl;
 	cout << "test2" << endl;
+	cout << "test3" << endl;
 }

@@ -1,3 +1,4 @@
 ﻿  hello.cpp
-F:\All_WorkFiles\01_ForWork\11_test\1\Test\Helloworld\Helloworld\hello.cpp(4,13): warning C4326: “main”的返回类型应为“int”而非“void”
-  Helloworld.vcxproj -> F:\All_WorkFiles\01_ForWork\11_test\1\Test\Helloworld\x64\Debug\Helloworld.exe
+F:\All_WorkFiles\01_ForWork\11_test\2\Test\Helloworld\Helloworld\hello.cpp(4,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  LINK : 没有找到 F:\All_WorkFiles\01_ForWork\11_test\2\Test\Helloworld\x64\Debug\Helloworld.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Helloworld.vcxproj -> F:\All_WorkFiles\01_ForWork\11_test\2\Test\Helloworld\x64\Debug\Helloworld.exe
